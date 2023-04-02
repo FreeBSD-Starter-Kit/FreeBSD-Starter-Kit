@@ -1,7 +1,7 @@
 ### FreeBSD Starter Kit
 
 ### Purpose: 
-To create a better FreeBSD user experience for newcomers.
+Making FreeBSD easier for newcomers!
 
 ### Objectives:
 * Provide a bootable FreeBSD Starter Kit image which installs FreeBSD with a desktop environment by default.
